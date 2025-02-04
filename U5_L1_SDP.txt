@@ -1,0 +1,6 @@
+Because the singly node uses parts from the singly linked class
+
+tail remove would break the entire node system and you would have to loop through all the nodes to find what was before the tail
+
+
+The linked list seems to have less data requirements compared to the dynamic arrays 
